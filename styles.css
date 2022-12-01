@@ -1,0 +1,42 @@
+
+*{
+  background-color: #66FFFF;
+  font-family: Mont;
+}
+.basicdiv
+{
+  background-color: #ffffff;
+  height: 1100px;
+  width:720px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.header
+{
+  margin-left: 170px;
+  margin-right: auto;
+  margin-top: 15px;
+  margin-bottom: 3px;
+  background-color:#ffffff;
+}
+.information{
+  float: right;
+  width: 500px;
+  height: 266.7px;
+  background-color: #ffffff
+}
+.description{
+  float: left;
+  width: 720px;
+  background-color: #66FFFF;
+}
+.skills{
+  margin-top: 0px;
+  margin-left: 15px;
+  float: left;
+  width: 500px;
+  background-color: #ffffff;
+}
+.color {
+  background-color: #ffffff;
+}
